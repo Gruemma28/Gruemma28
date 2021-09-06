@@ -5,7 +5,7 @@ Hi, I am Gruemma28, a learning programmer, I like to use Java Script and Python 
 
 
 
-## Facts about me:
+## Facts about me
 - I am learning more about **CSS**, **HTML**, **PHP**, **C++** and **Java**.
 - I like developing videogames using the **Unreal Engine** and **Blender** for 3D modeling.
 - I'm learning to read binary code and brainfuck.
