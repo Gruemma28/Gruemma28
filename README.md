@@ -1,4 +1,4 @@
-![Test](https://media.discordapp.net/attachments/835228214456352799/884140283086921818/Sin_titulo.jpg)
+![Banner](https://user-images.githubusercontent.com/86978035/132160353-7fb18103-34a6-4278-8b06-8b3cd6b39be3.jpg)
 ____
 ## Introduction to my user
 Hi, I am Gruemma28, a learning programmer, I like to use Java Script and Python for my projects. **Feel free to contact me on Discord in any case.** I consider myself a video game developer using game engines and code.
