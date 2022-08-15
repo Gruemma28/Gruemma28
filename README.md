@@ -8,4 +8,4 @@ HUHHH..
 I LIKE PIZZA
 
 
-<div align="center"><img src="[https://komarev.com/ghpvc/?username=Gruemma28&label=Vistas]" alt="Visitors"></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Gruemma28&label=Vistas" alt="Visitors"></div>
